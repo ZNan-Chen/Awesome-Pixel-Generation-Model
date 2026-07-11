@@ -33,6 +33,9 @@
 | THERE IS NO VAE: END-TO-END PIXEL-SPACE GEN ERATIVE MODELING VIA SELF-SUPERVISED PRE TRAINING | ICLR 2026 | [Paper](https://arxiv.org/abs/2510.12586)\|[Code](https://github.com/AMAP-ML/EPG) |
 | PixNerd: Pixel Neural Field Diffusion | ICLR 2026 | [Paper](https://arxiv.org/abs/2507.23268)\|[Code](https://github.com/MCG-NJU/PixNerd) |
 | PixelFlow: Pixel-Space Generative Models with Flow | arXiv 2025 | [Paper](https://arxiv.org/abs/2504.07963)\|[Code](https://github.com/shoufachen/pixelflow) |
+| Boosting Generative Image Modeling via Joint Image-Feature Synthesis | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2504.16064)\|[Code](https://github.com/zelaki/ReDi) |
+| Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers | arXiv 2024 | [Paper](https://arxiv.org/abs/2401.11605)\|[Code](https://github.com/crowsonkb/k-diffusion) |
+| Matryoshka Diffusion Models | ICLR 2024 | [Paper](https://arxiv.org/pdf/2310.15111)\|[Code](https://github.com/apple/ml-mdm) |
 
 ### Text to Image
 | **Title** | **Venue** |  **Links** |
