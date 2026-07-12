@@ -28,6 +28,8 @@
 | HyperDiT: Hyper-Connected Transformers for High-Fidelity Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15741)\|Code |
 | FrequencyBooster: Full-Frequency Modeling for High-Fidelity Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/pdf/2605.17759)\|Code |
 | RaPD: Resolution-Agnostic Pixel Diffusion via Semantics-Enriched Implicit Representations | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15908)\|Code |
+| One-step Latent-free Image Generation with Pixel Mean Flows | ICML 2026 | [Paper](https://github.com/Lyy-iiis/pMF)\|[Code](https://github.com/Lyy-iiis/pMF) |
+| MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation | ECCV 2026 | [Paper](https://arxiv.org/abs/2606.26016)\|[Code](https://github.com/MCG-NJU/MIMFlow) |
 | PixelU: A U-Shaped Transformer for Efficient End-to-End Pixel Diffusion | ECCV 2026 | [Paper](https://arxiv.org/pdf/2606.27760)\|[Code](https://github.com/gzp6688/PixelU) |
 | PixelREPA: Representation Alignment for Just Image Transformers is not Easier than You Think | ECCV 2026 | [Paper](https://arxiv.org/pdf/2603.14366)\|[Code](https://github.com/kaist-cvml/PixelREPA) |
 | V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising | ECCV 2026 | [Paper](https://arxiv.org/pdf/2603.16792)\|[Code](https://github.com/HL-hanlin/V-Co) |
