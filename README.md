@@ -5,23 +5,29 @@
 
 ## Content:
 - [Image Generation](#image-generation)
-  - [Class to Image](#class-to-image)
-  - [Text to Image](#text-to-image)
+  - [Class to Image & Text to Image](#class-text-image)
+  - [Image Editing](#image-editing)
 - [Video Generation](#video-generation)
   - [Text to Video](#text-to-video)
 - [3D Generation](#3d-generation)
-- [Unified Multimodal Understanding and Generation](#multimodal-generation)
+- [Unified Multimodal Understanding and Generation](#unified-multimodal-understanding-and-generation)
 - [Others](#others)
 
 --------------------------------------------------------------------------------------
 
 ## Image Generation
 
-### Class to Image
+### Class to Image & Text to Image <a id="class-text-image"></a>
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| HyperDiT: Hyper-Connected Transformers for High-Fidelity Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15741)\|[Code](coming soon) |
-| FrequencyBooster: Full-Frequency Modeling for High-Fidelity Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/pdf/2605.17759)\|[Code](coming soon) |
+| L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| MiniT2I: A Minimalist Baseline for Text-to-Image Generation | Blog 2026 | [Blog](https://peppaking8.github.io/#/post/minit2i)\|[Code](https://github.com/PeppaKing8/minit2i-jax) |
+| Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.15236)\|[Code](https://github.com/WeichenFan/Spectral_Forcing) |
+| Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.27978)\|[Code](https://github.com/MangataX/PRA) |
+| HyperDiT: Hyper-Connected Transformers for High-Fidelity Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15741)\|Code |
+| FrequencyBooster: Full-Frequency Modeling for High-Fidelity Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/pdf/2605.17759)\|Code |
+| RaPD: Resolution-Agnostic Pixel Diffusion via Semantics-Enriched Implicit Representations | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15908)\|Code |
+| PixelU: A U-Shaped Transformer for Efficient End-to-End Pixel Diffusion | ECCV 2026 | [Paper](https://arxiv.org/pdf/2606.27760)\|[Code](https://github.com/gzp6688/PixelU) |
 | PixelREPA: Representation Alignment for Just Image Transformers is not Easier than You Think | ECCV 2026 | [Paper](https://arxiv.org/pdf/2603.14366)\|[Code](https://github.com/kaist-cvml/PixelREPA) |
 | V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising | ECCV 2026 | [Paper](https://arxiv.org/pdf/2603.16792)\|[Code](https://github.com/HL-hanlin/V-Co) |
 | PixelGen: Improving Pixel Diffusion with Perceptual Supervision | arXiv 2026 | [Paper](https://arxiv.org/abs/2602.02493)\|[Code](https://github.com/Zehong-Ma/PixelGen) |
@@ -37,10 +43,6 @@
 | Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers | arXiv 2024 | [Paper](https://arxiv.org/abs/2401.11605)\|[Code](https://github.com/crowsonkb/k-diffusion) |
 | Matryoshka Diffusion Models | ICLR 2024 | [Paper](https://arxiv.org/pdf/2310.15111)\|[Code](https://github.com/apple/ml-mdm) |
 
-### Text to Image
-| **Title** | **Venue** |  **Links** |
-|:--------|:--------:|:--------:|
-| *Add new paper here* | *Venue* | [Paper]()\|[Code]() |
 
 ### Image Editing
 | **Title** | **Venue** |  **Links** |
@@ -61,14 +63,17 @@
 ## 3D Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| *Add new paper here* | ICLR2025 | [Paper]()\|[Code]() |
+| PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space | arxiv 2026 | [Paper](https://arxiv.org/abs/2607.05373)\|[Code](https://github.com/SensenGao/PixWorld) |
 
 --------------------------------------------------------------------------------------
 
 ## Unified Multimodal Understanding and Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| *Add new paper here* | ICLR2025 | [Paper]()\|Code |
+| Representation Forcing for Bottleneck-Free Unified Multimodal Models | arxiv2026 | [Paper](https://arxiv.org/abs/2605.31604)\|Code |
+| SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture | arxiv2026 | [Paper](https://arxiv.org/abs/2605.12500)\|[Code](https://github.com/OpenSenseNova/SenseNova-U1) |
+| Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation | arxiv2026 | [Paper](https://arxiv.org/abs/2604.24763)\|[Code](https://github.com/facebookresearch/tuna-2) |
+| HiDream-O1-Image: A Natively Unified Image Generative Foundation Model with Pixel-level Unified Transformer | arxiv2026 | [Paper](https://arxiv.org/abs/2605.11061)\|[Code](https://github.com/HiDream-ai/HiDream-O1-Image) |
 
 --------------------------------------------------------------------------------------
 
