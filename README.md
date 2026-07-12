@@ -23,6 +23,7 @@
 | L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
 | MiniT2I: A Minimalist Baseline for Text-to-Image Generation | Blog 2026 | [Blog](https://peppaking8.github.io/#/post/minit2i)\|[Code](https://github.com/PeppaKing8/minit2i-jax) |
 | Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.15236)\|[Code](https://github.com/WeichenFan/Spectral_Forcing) |
+| Asymmetric Flow Models | arxiv 2026 | [Paper](https://arxiv.org/abs/2605.12964)\|[Code](https://github.com/Lakonik/LakonLab/blob/main/docs/AsymFlow.md) |
 | Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.27978)\|[Code](https://github.com/MangataX/PRA) |
 | HyperDiT: Hyper-Connected Transformers for High-Fidelity Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15741)\|Code |
 | FrequencyBooster: Full-Frequency Modeling for High-Fidelity Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/pdf/2605.17759)\|Code |
