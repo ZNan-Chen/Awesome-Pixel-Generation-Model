@@ -83,8 +83,8 @@
 
 --------------------------------------------------------------------------------------
 
-
---------------------------------------------------------------------------------------
-
 ## Others
-*(Content coming soon...)*
+| **Title** | **Venue** |  **Links** |
+|:--------|:--------:|:--------:|
+| WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling | arxiv2026 | [Paper](https://arxiv.org/abs/2606.03455)\|[Code](https://github.com/cwx-worst-one/WavTTS) |
+| WavFlow: Audio Generation in Waveform Space | arxiv2026 | [Paper](https://arxiv.org/abs/2605.18749)\|[Code](https://github.com/facebookresearch/WavFlow) |
