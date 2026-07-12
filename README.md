@@ -68,6 +68,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space | arxiv 2026 | [Paper](https://arxiv.org/abs/2607.05373)\|[Code](https://github.com/SensenGao/PixWorld) |
+| PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation | ICML 2026 | [Paper](https://arxiv.org/abs/2607.02515)\|Code |
 | PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation | ECCV 2026 | [Paper](https://arxiv.org/abs/2607.01803)\|Code|
 
 --------------------------------------------------------------------------------------
