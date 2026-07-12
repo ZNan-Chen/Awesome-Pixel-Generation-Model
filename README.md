@@ -21,6 +21,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.23902)\|[Code](https://github.com/nv-tlabs/PiD) |
 | MiniT2I: A Minimalist Baseline for Text-to-Image Generation | Blog 2026 | [Blog](https://peppaking8.github.io/#/post/minit2i)\|[Code](https://github.com/PeppaKing8/minit2i-jax) |
 | Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.15236)\|[Code](https://github.com/WeichenFan/Spectral_Forcing) |
 | Asymmetric Flow Models | arxiv 2026 | [Paper](https://arxiv.org/abs/2605.12964)\|[Code](https://github.com/Lakonik/LakonLab/blob/main/docs/AsymFlow.md) |
