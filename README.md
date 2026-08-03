@@ -21,6 +21,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples | arXiv 2026 | [Paper](https://arxiv.org/abs/2607.29122)\|[Code](https://github.com/zfu006/SSG) |
 | DuSPiT: Dual-Branch Sub-Patch Pixel Diffusion Transformer | arXiv 2026 | [Paper](https://arxiv.org/abs/2607.18510)\|[Code](https://github.com/yunpeng1998/DuSPiT) |
 | End-to-End Training for Unified Tokenization and Latent Denoising | arXiv 2026 | [Paper](https://arxiv.org/abs/2603.22283)\|[Code](https://github.com/ShivamDuggal4/UNITE-tokenization-generation) |
 | DuSPiT: Dual-Branch Sub-Patch Pixel Diffusion Transformer | arXiv 2026 | [Paper](https://arxiv.org/abs/2607.18510)\|[Code](https://github.com/yunpeng1998/DuSPiT) |
