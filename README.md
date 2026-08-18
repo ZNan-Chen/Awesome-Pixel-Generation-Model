@@ -21,6 +21,8 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16887)\|Code|
+| PixelControl: Fine-Grained Condition Fidelity in Text-to-Image Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.15705)\|[Code](https://github.com/linxin0/PixelControl)|
 | Energy-Guided Flow Matching | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.05811)\|[Code](https://github.com/ysng123/EG-FM) |
 | A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples | arXiv 2026 | [Paper](https://arxiv.org/abs/2607.29122)\|[Code](https://github.com/zfu006/SSG) |
 | DuSPiT: Dual-Branch Sub-Patch Pixel Diffusion Transformer | arXiv 2026 | [Paper](https://arxiv.org/abs/2607.18510)\|[Code](https://github.com/yunpeng1998/DuSPiT) |
@@ -53,6 +55,10 @@
 | Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers | arXiv 2024 | [Paper](https://arxiv.org/abs/2401.11605)\|[Code](https://github.com/crowsonkb/k-diffusion) |
 | Matryoshka Diffusion Models | ICLR 2024 | [Paper](https://arxiv.org/pdf/2310.15111)\|[Code](https://github.com/apple/ml-mdm) |
 
+### Image to Image
+| **Title** | **Venue** |  **Links** |
+|:--------|:--------:|:--------:|
+| PixRestore: Unified Image Restoration via Pixel Diffusion Transformer | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16793)\|[Code](https://github.com/csslc/PixRestore) |
 
 ### Image Editing
 | **Title** | **Venue** |  **Links** |
