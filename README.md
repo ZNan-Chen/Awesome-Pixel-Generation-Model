@@ -59,6 +59,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | PixRestore: Unified Image Restoration via Pixel Diffusion Transformer | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16793)\|[Code](https://github.com/csslc/PixRestore) |
+| PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16984)\|[Code](https://github.com/yuanzhy29/PXDepth) |
 
 ### Image Editing
 | **Title** | **Venue** |  **Links** |
