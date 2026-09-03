@@ -21,6 +21,10 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| Balancing Frequencies and Pixels in Flow Matching | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.02748)\|Code|
+| Elastic Token Compression for Pixel-Space Diffusion Transformers | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.29281)\|Code|
+| Advanced Pixel Diffusion Model with Guided Sparse Global Refinement | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.00798)\|[Code](https://github.com/CVL-UESTC/PixSGR) |
+| Pixel-Space Diffusion via Observation Operators | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.21885)\|Code|
 | An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16887)\|Code|
 | PixelControl: Fine-Grained Condition Fidelity in Text-to-Image Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.15705)\|[Code](https://github.com/linxin0/PixelControl)|
 | Energy-Guided Flow Matching | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.05811)\|[Code](https://github.com/ysng123/EG-FM) |
@@ -58,6 +62,7 @@
 ### Image to Image
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.30129)\|[Code](https://github.com/VISION-SJTU/Lapis) |
 | PixRestore: Unified Image Restoration via Pixel Diffusion Transformer | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16793)\|[Code](https://github.com/csslc/PixRestore) |
 | PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.16984)\|[Code](https://github.com/yuanzhy29/PXDepth) |
 
