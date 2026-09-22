@@ -21,6 +21,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| PixelDiT2: Representation-Grounded Pixel Diffusion Transformers | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.24919)\|Code|
 | Balancing Frequencies and Pixels in Flow Matching | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.02748)\|Code|
 | Elastic Token Compression for Pixel-Space Diffusion Transformers | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.29281)\|Code|
 | Advanced Pixel Diffusion Model with Guided Sparse Global Refinement | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.00798)\|[Code](https://github.com/CVL-UESTC/PixSGR) |
@@ -42,6 +43,7 @@
 | FrequencyBooster: Full-Frequency Modeling for High-Fidelity Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/pdf/2605.17759)\|Code |
 | RaPD: Resolution-Agnostic Pixel Diffusion via Semantics-Enriched Implicit Representations | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.15908)\|Code |
 | One-step Latent-free Image Generation with Pixel Mean Flows | ICML 2026 | [Paper](https://github.com/Lyy-iiis/pMF)\|[Code](https://github.com/Lyy-iiis/pMF) |
+| Hi-DiT: Hybrid Latent-Pixel Diffusion Transformer for Image Generation | ECCV 2026 | [Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7486.pdf)\|[Code](https://github.com/HiDream-ai/Hi-DiT) |
 | MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation | ECCV 2026 | [Paper](https://arxiv.org/abs/2606.26016)\|[Code](https://github.com/MCG-NJU/MIMFlow) |
 | PixelU: A U-Shaped Transformer for Efficient End-to-End Pixel Diffusion | ECCV 2026 | [Paper](https://arxiv.org/pdf/2606.27760)\|[Code](https://github.com/gzp6688/PixelU) |
 | PixelREPA: Representation Alignment for Just Image Transformers is not Easier than You Think | ECCV 2026 | [Paper](https://arxiv.org/pdf/2603.14366)\|[Code](https://github.com/kaist-cvml/PixelREPA) |
