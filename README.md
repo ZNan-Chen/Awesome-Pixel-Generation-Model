@@ -20,7 +20,6 @@
 ### Class to Image & Text to Image <a id="class-text-image"></a>
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38597)\|Code|
 | Adversarial Training for Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38170)\|Code|
 | Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38156)\|Code|
 | Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.36014)\|[Code](https://github.com/ChongWang1024/PerF)|
@@ -102,6 +101,7 @@
 ## Unified Multimodal Understanding and Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38597)\|Code|
 | Representation Forcing for Bottleneck-Free Unified Multimodal Models | arxiv2026 | [Paper](https://arxiv.org/abs/2605.31604)\|Code |
 | SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture | arxiv2026 | [Paper](https://arxiv.org/abs/2605.12500)\|[Code](https://github.com/OpenSenseNova/SenseNova-U1) |
 | Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation | arxiv2026 | [Paper](https://arxiv.org/abs/2604.24763)\|[Code](https://github.com/facebookresearch/tuna-2) |
