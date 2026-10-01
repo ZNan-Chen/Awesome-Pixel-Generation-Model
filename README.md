@@ -20,8 +20,14 @@
 ### Class to Image & Text to Image <a id="class-text-image"></a>
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| L2P: Unlocking Latent Potential for Pixel Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
-| PixelDiT2: Representation-Grounded Pixel Diffusion Transformers | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.24919)\|Code|
+| PixelUMM: Encoder-Free Unified Image and Video Understanding and Generation | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38597)\|Code|
+| Adversarial Training for Pixel Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38170)\|Code|
+| Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.38156)\|Code|
+| Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.36014)\|[Code](https://github.com/ChongWang1024/PerF)|
+| Residual-Stream Burden Shapes Representation Learning in Diffusion Transformers | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.33895)\|Code|
+| RepFlow: Reciprocal Supervision Improves Generation and Representation in Flow Models | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.33217)\|Code|
+| L2P: Unlocking Latent Potential for Pixel Generation | NeurIPS Spotlight 2026 | [Paper](https://arxiv.org/abs/2605.12013)\|[Code](https://github.com/TencentYoutuResearch/T2I-L2P) |
+| PixelDiT2: Representation-Grounded Pixel Diffusion Transformers | NeurIPS 2026 | [Paper](https://arxiv.org/abs/2609.24919)\|Code|
 | Balancing Frequencies and Pixels in Flow Matching | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.02748)\|Code|
 | Elastic Token Compression for Pixel-Space Diffusion Transformers | arXiv 2026 | [Paper](https://arxiv.org/abs/2608.29281)\|Code|
 | Advanced Pixel Diffusion Model with Guided Sparse Global Refinement | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.00798)\|[Code](https://github.com/CVL-UESTC/PixSGR) |
